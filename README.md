@@ -1,5 +1,8 @@
 # WEBT | CORE | Server Responses with PHP in JSON format
 
+## How to see only one ID URL
+- http://dev.webt.local:8888/webt-core-server-responses-with-php-in-json-format/index.php?id=3
+
 ## Overview
 The Retro Videogame Fanclub of Vienna has approached you to contribute to the Open Data sources on the internet. They want to establish a service that allows users to search for a videogame and receive a list of soundtrack covers for said game in the JSON format to be used in own applications.
 
